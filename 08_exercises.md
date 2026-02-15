@@ -68,3 +68,5 @@
 |[chipseq_4](data/chipseq_4.fasta)|[chipseq_5](data/chipseq_5.fasta)|[chipseq_6](data/chipseq_6.fasta)|
 |[chipseq_7](data/chipseq_7.fasta)|[chipseq_8](data/chipseq_8.fasta)|[chipseq_9](data/chipseq_9.fasta)|
 |[chipseq_10](data/chipseq_10.fasta)|                               |                                 |
+
+**[Inicio](README.md)**

@@ -15,3 +15,5 @@
 > Alineamientos globales
 > [ejemplo 1](data/g_align_01.fasta), [ejemplo 2](data/g_align_02.fasta), [ejemplo 3](data/g_align_03.fasta), [ejemplo 4](data/g_align_04.fasta), [ejemplo 5](data/g_align_05.fasta)
 > [ejemplo 6](data/g_align_06.fasta), [ejemplo 7](data/g_align_07.fasta), [ejemplo 8](data/g_align_08.fasta), [ejemplo 9](data/g_align_09.fasta), [ejemplo 10](data/g_align_10.fasta)
+
+**[Inicio](README.md)**

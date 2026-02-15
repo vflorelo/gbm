@@ -15,3 +15,5 @@
 > ##### Puedo almacenar mis secuencias usando el bloc de notas?
 >
 > ###### Si. Los editores de texto como Atom, Sublime, Visual Studio, mantienen intactas nuestras secuencias, por lo que son los programas de eleccion.
+
+**[Inicio](README.md)**

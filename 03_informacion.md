@@ -15,3 +15,5 @@
 |Fenotipos          |[OMIM](http://www.omim.org/)                          |                                            |
 
 > El uso de estas bases de datos es gratuito, y la búsqueda de secuencias es relativamente sencillo ya que podemos realizar consultas a través de su sitio web o mediante líneas de comandos
+
+**[Inicio](README.md)**

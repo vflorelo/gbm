@@ -29,3 +29,5 @@
 ### GFF/GTF
 > El formato GFF es ampliamente utilizado para el almacenamiento de anotaciones de secuencias que van desde 1 nucleótido hasta genomas eucarioticos completos
 > [ejemplo](data/KP255413.gff)
+
+**[Inicio](README.md)**
