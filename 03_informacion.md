@@ -1,6 +1,7 @@
 # Qué información tenemos disponible?
 
 !["dogma"](dogma_dbs.png)
+
 |Tipo de datos      |USA                                                   |Europe                                      |
 |-------------------|------------------------------------------------------|--------------------------------------------|
 |Nucleótidos        |[NCBI nucleotide](http://www.ncbi.nlm.nih.gov/nuccore)|[ENA](http://www.ebi.ac.uk/ena)             |
