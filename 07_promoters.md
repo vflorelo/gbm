@@ -5,13 +5,13 @@
 >
 > Various computational methods for promoter prediction have been developed over the past few years [link](https://www.ncbi.nlm.nih.gov/pubmed/26158565)
 
-### Software
+## Software
 - [BioMart](https://www.ensembl.org/biomart/martview/1289a20a7de2aa3bb9def9435ab620d8)
 - [BPROM](http://www.softberry.com/berry.phtml?topic=bprom&group=programs&subgroup=gfindb)
 - [FPROM](http://www.softberry.com/berry.phtml?topic=fprom&group=programs&subgroup=promoter)
 - [MEME](http://meme-suite.org/tools/meme)
 
-### Datos de prueba
+## Datos de prueba
 > Búsqueda de promotores
 > [ejemplo 1](data/prom_scan_01.fasta), [ejemplo 2](data/prom_scan_02.fasta), [ejemplo 3](data/prom_scan_03.fasta), [ejemplo 4](data/prom_scan_04.fasta), [ejemplo 5](data/prom_scan_05.fasta)
 > [ejemplo 6](data/prom_scan_06.fasta), [ejemplo 7](data/prom_scan_07.fasta), [ejemplo 8](data/prom_scan_08.fasta), [ejemplo 9](data/prom_scan_09.fasta), [ejemplo 10](data/prom_scan_10.fasta)
