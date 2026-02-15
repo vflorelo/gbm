@@ -6,6 +6,7 @@
 - ### Búsqueda de motifs
 
 ## Indicaciones
+
 > Deberás envíar tus respuestas en un documento PDF con formato libre indicando tu nombre, **no** se aceptarán documentos en formato .doc o .docx o algún otro tipo.
 >
 > Para cada sección y las preguntas correspondientes, deberás indicar qué secuencias (o vectores, o sets) elegiste.
@@ -17,7 +18,9 @@
 > La fecha límite de entrega es el viernes 27 de febrero
 
 ## Comparación de secuencias
+
 > A continuación se mostrarán 18 secuencias, descarga una (o más) de ellas y realiza los pasos que consideres necesarios para resolver las siguientes preguntas.
+
 1. A que organismo probablemente pertenece la secuencia que elegiste?
 2. La secuencia que elegiste, codifica para algúna proteína? Cúal?
 3. Cuantas secuencias similares hay en bases de datos?
@@ -26,6 +29,7 @@
 6. Si tu secuencia es codificante, cúal es el homólogo más cercano a nivel de proteína en el linaje de los mamiferos?
 
 ### Secuencias
+
 |[Secuencia 1](data/unknown_1.fasta)|[Secuencia 2](data/unknown_2.fasta)|[Secuencia 3](data/unknown_3.fasta)|[Secuencia 4](data/unknown_4.fasta)|[Secuencia 5](data/unknown_5.fasta)|
 |-----------------------------------|-----------------------------------|-----------------------------------|-----------------------------------|-----------------------------------|
 |[Secuencia 6](data/unknown_6.fasta)|[Secuencia 7](data/unknown_7.fasta)|[Secuencia 8](data/unknown_8.fasta)|[Secuencia 9](data/unknown_9.fasta)|[Secuencia 10](data/unknown_10.fasta)|
@@ -33,18 +37,22 @@
 |[Secuencia 16](data/unknown_16.fasta)|[Secuencia 17](data/unknown_17.fasta)|[Secuencia 18](data/unknown_18.fasta)|||
 
 ## Restricción enzimática
+
 > En esta sección deberas elegir dos secuencias, una correspondiente a un vector de clonación y una correspondiente a una secuencia desconocida
+
 1. De qué organismo proviene tu secuencia? Qué codifica?
 2. Tu vector tiene un sitio de clonación múltiple? Qué enzimas contiene?
 3. Qué enzimas de restricción eligirías para clonar tu secuencia en el vector que escogiste?
 
 ### Vectores
+
 |[pASK75](data/pASK75.fasta)                  |[pBAD-HisA](data/pBAD-HisA.fasta)  |[pET-3arev](data/pET-3arev.fasta)|
 |---------------------------------------------|-----------------------------------|---------------------------------|
 |[pETM11-SUMO3GFP](data/pETM11-SUMO3GFP.fasta)|[pGAT](data/pGAT.fasta)            |[pHAT](data/pHAT.fasta)          |
 |[pMAL-P2](data/pMAL-P2.fasta)                |[pProEx-HTa](data/pProEx-HTa.fasta)|[pRSET-C](data/pRSET-C.fasta)    |
 
 ### Secuencias
+
 |[unknown_19](data/unknown_19.fasta)|[unknown_20](data/unknown_20.fasta)|[unknown_21](data/unknown_21.fasta)|[unknown_22](data/unknown_22.fasta)|
 |-----------------------------------|-----------------------------------|-----------------------------------|-----------------------------------|
 |[unknown_23](data/unknown_23.fasta)|[unknown_24](data/unknown_24.fasta)|[unknown_25](data/unknown_25.fasta)|[unknown_26](data/unknown_26.fasta)|
@@ -53,6 +61,7 @@
 |[unknown_35](data/unknown_35.fasta)|
 
 ## Búsqueda de motifs
+
 > En esta sección deberas elegir uno o más datos de ChIP-Seq
 >
 > Usando las herramientas [MEME](https://meme-suite.org/meme/tools/meme) , [MAST](https://meme-suite.org/meme/tools/mast) y [TOMTOM](https://meme-suite.org/meme/tools/tomtom) contesta las siguientes preguntas:
