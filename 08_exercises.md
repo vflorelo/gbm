@@ -13,7 +13,7 @@
 >
 > En las secciones donde se pregunte acerca de secuencias o motifs ya reportados, incluye el número de acceso de dichos elementos.
 >
-> No dudes en consultar con tus compañeros, o a mi [correo electrónico](mailtp:vf281@cam.ac.uk) para aclarar cualquier tipo de duda.
+> No dudes en consultar con tus compañeros, o a mi [correo electrónico](mailto:vf281@cam.ac.uk) para aclarar cualquier tipo de duda.
 >
 > La fecha límite de entrega es el viernes 27 de febrero
 
