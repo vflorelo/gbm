@@ -2,7 +2,6 @@
 
 ## Aspectos a evaluar:
 - ### Comparación de secuencias
-- ### Búsqueda de sitios de restricción
 - ### Búsqueda de motifs
 
 ## Indicaciones
@@ -35,30 +34,6 @@
 |[Secuencia 6](data/unknown_6.fasta)|[Secuencia 7](data/unknown_7.fasta)|[Secuencia 8](data/unknown_8.fasta)|[Secuencia 9](data/unknown_9.fasta)|[Secuencia 10](data/unknown_10.fasta)|
 |[Secuencia 11](data/unknown_11.fasta)|[Secuencia 12](data/unknown_12.fasta)|[Secuencia 13](data/unknown_13.fasta)|[Secuencia 14](data/unknown_14.fasta)|[Secuencia 15](data/unknown_15.fasta)|
 |[Secuencia 16](data/unknown_16.fasta)|[Secuencia 17](data/unknown_17.fasta)|[Secuencia 18](data/unknown_18.fasta)|||
-
-## Restricción enzimática
-
-> En esta sección deberas elegir dos secuencias, una correspondiente a un vector de clonación y una correspondiente a una secuencia desconocida
-
-1. De qué organismo proviene tu secuencia? Qué codifica?
-2. Tu vector tiene un sitio de clonación múltiple? Qué enzimas contiene?
-3. Qué enzimas de restricción eligirías para clonar tu secuencia en el vector que escogiste?
-
-### Vectores
-
-|[pASK75](data/pASK75.fasta)                  |[pBAD-HisA](data/pBAD-HisA.fasta)  |[pET-3arev](data/pET-3arev.fasta)|
-|---------------------------------------------|-----------------------------------|---------------------------------|
-|[pETM11-SUMO3GFP](data/pETM11-SUMO3GFP.fasta)|[pGAT](data/pGAT.fasta)            |[pHAT](data/pHAT.fasta)          |
-|[pMAL-P2](data/pMAL-P2.fasta)                |[pProEx-HTa](data/pProEx-HTa.fasta)|[pRSET-C](data/pRSET-C.fasta)    |
-
-### Secuencias
-
-|[unknown_19](data/unknown_19.fasta)|[unknown_20](data/unknown_20.fasta)|[unknown_21](data/unknown_21.fasta)|[unknown_22](data/unknown_22.fasta)|
-|-----------------------------------|-----------------------------------|-----------------------------------|-----------------------------------|
-|[unknown_23](data/unknown_23.fasta)|[unknown_24](data/unknown_24.fasta)|[unknown_25](data/unknown_25.fasta)|[unknown_26](data/unknown_26.fasta)|
-|[unknown_27](data/unknown_27.fasta)|[unknown_28](data/unknown_28.fasta)|[unknown_29](data/unknown_29.fasta)|[unknown_30](data/unknown_30.fasta)|
-|[unknown_31](data/unknown_31.fasta)|[unknown_32](data/unknown_32.fasta)|[unknown_33](data/unknown_33.fasta)|[unknown_34](data/unknown_34.fasta)|
-|[unknown_35](data/unknown_35.fasta)|
 
 ## Búsqueda de motifs
 
